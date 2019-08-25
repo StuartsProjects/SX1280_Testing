@@ -12,4 +12,4 @@ The Mikrobus boards I used are available from;
 
 [http://www.loratracker.uk/](http://www.loratracker.uk/)
 
-Note the SX1280 Mikrobus board can be used on the standard 2 x 8 pin Mikrobus layout, but the analogu pin needs to be able to be set as digital. If you make LK1 on the board then the SX1280 BUSY pin is connected to AN1.
+Note the SX1280 Mikrobus board can be used on the standard 2 x 8 pin Mikrobus layout, but the analogue pin needs to be able to be set as digital. If you make LK1 on the board then the SX1280 BUSY pin is connected to AN1.
