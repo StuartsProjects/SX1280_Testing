@@ -211,14 +211,15 @@ The assembled 2.4Ghz tracker is fairly compact and I choose to use a standard sm
 The tracker was fitted into the HAB payload box, shown below at top left with the small L70 GPS at top right. The antenna poked out of the top of the box which was not ideal but 
 the Raspberry Pi in the Sky (PITS) tracker had two antennas on the bottom, one for FSK RTTY and another for LoRa. 
 
+
 <br><br> 
-![Picture 1](Pictures/89km_3.jpg)
+![Picture 1](Pictures/89km_2.jpg)
 <br><br>
 
 This is the balloon being filled with helium at the launch site. 
  
 <br><br> 
-![Picture 1](Pictures/89km_4.jpg)
+![Picture 1](Pictures/89km_2.jpg)
 <br><br>
 
 And the balloon shortly after launch with the payload bellow. 
