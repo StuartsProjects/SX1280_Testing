@@ -203,10 +203,11 @@ I make my own Mikrobus compatible boards for the Hope RFM9x, DRF127x, RN2483 LoR
 
 The assembled 2.4Ghz tracker is fairly compact and I choose to use a standard small Wi-Fi antenna connected to the RP SMA socket.
 
+
 <br><br> 
 ![Picture 1](Pictures/89km_2.jpg)
 <br><br>
- 
+
 
 The tracker was fitted into the HAB payload box, shown below at top left with the small L70 GPS at top right. The antenna poked out of the top of the box which was not ideal but 
 the Raspberry Pi in the Sky (PITS) tracker had two antennas on the bottom, one for FSK RTTY and another for LoRa. 
@@ -216,13 +217,17 @@ the Raspberry Pi in the Sky (PITS) tracker had two antennas on the bottom, one f
 ![Picture 1](Pictures/89km_3.jpg)
 <br><br>
 
+
 This is the balloon being filled with helium at the launch site. 
- 
+
+
 <br><br> 
 ![Picture 1](Pictures/89km_4.jpg)
 <br><br>
 
+
 And the balloon shortly after launch with the payload bellow. 
+
 
 <br><br> 
 ![Picture 1](Pictures/89km_5.jpg)
@@ -230,6 +235,7 @@ And the balloon shortly after launch with the payload bellow.
 
 
 My ground station tracker setup was fairly simple, a low cost Wi-Fi yagi on a tripod and one of my LCD receivers with a SX1280 Mikrobus module in place. The receiver has its own GPS so when it receives the location data from the tracker can calculate the distance and direction to the tracker.  
+
 <br><br> 
 ![Picture 1](Pictures/89km_6.jpg)
 <br><br> 
