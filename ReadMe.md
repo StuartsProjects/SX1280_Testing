@@ -214,7 +214,7 @@ the Raspberry Pi in the Sky (PITS) tracker had two antennas on the bottom, one f
 
 
 <br><br> 
-![Picture 1](Pictures/89km_3.jpg)
+![Picture 1](Pictures/89km_3a.jpg)
 <br><br>
 
 
