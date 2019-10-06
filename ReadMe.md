@@ -213,13 +213,13 @@ the Raspberry Pi in the Sky (PITS) tracker had two antennas on the bottom, one f
 
 
 <br><br> 
-![Picture 1](Pictures/89km_2.jpg)
+![Picture 1](Pictures/89km_3.jpg)
 <br><br>
 
 This is the balloon being filled with helium at the launch site. 
  
 <br><br> 
-![Picture 1](Pictures/89km_2.jpg)
+![Picture 1](Pictures/89km_4.jpg)
 <br><br>
 
 And the balloon shortly after launch with the payload bellow. 
