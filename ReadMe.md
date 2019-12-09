@@ -140,7 +140,7 @@ The longest range settings for point to point mode, SF12 and bandwidth 203khz sh
 <br><br> 
 
 
-##2.4Ghz NiceRF SX1280 LoRa Balloon Tracker - 85km Achieved
+## 2.4Ghz NiceRF SX1280 LoRa Balloon Tracker - 85km Achieved
 
 I have had the basic send and transmit function of my Arduino Library for the SX1280 working for a couple of months, but I was keen to subject the code to a real World test before publishing it. So I built a small GPS tracker (25g) to use on a high altitude balloon.
 
