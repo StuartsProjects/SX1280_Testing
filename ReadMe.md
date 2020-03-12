@@ -257,6 +257,6 @@ It was fun to experiment, thanks to all those involved for the workshop with a s
 The workshop was a real success despite the unfavourable Northly winds, so the balloon would have to cross a wide expanse of the Bristol channel before hopefully landing somewhere in Pembrokeshire or Camarthanshire.
 
 
-###Stuart Robinson
+### Stuart Robinson
 
-###July 2019 
+### July 2019 
